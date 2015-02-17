@@ -118,7 +118,7 @@ Examples
 
 .. code:: pycon
 
-    >>> print FISHY
+    >>> print FLEMISH
     Nobody expects the Flemish Inquisition!
     Our chief weapon is surprise...
     ....
