@@ -270,7 +270,7 @@ terminal in the same directory as your code repository and type:
 
 .. code:: console
 
-    $ sh runtests.sh
+    $ ./runtests.sh
 
 Submission
 ==========
